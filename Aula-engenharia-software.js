@@ -1,3 +1,5 @@
-var Hello = "Hello Hello oooow" 
+function chamaFunction(Hello){
+    console.log(Hello)
+}
 
-console.log(Hello)
+chamaFunction("Hello Hello oooow") 
